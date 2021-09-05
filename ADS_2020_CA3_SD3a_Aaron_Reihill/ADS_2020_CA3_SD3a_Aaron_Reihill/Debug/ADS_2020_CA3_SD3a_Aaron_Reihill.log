@@ -1,0 +1,25 @@
+﻿  Menu.cpp
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Time.cpp(26,23): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Comparitor.cpp(41,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Comparitor.cpp(42,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Calculations.cpp(14,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\HtmlGenerate.cpp(15,44): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\HtmlGenerate.cpp(17,46): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Menu.cpp(163,29): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Menu.cpp(191,30): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Time.cpp(11,23): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\ADS_2020_CA3_SD3a_Aaron_Reihill\Menu.cpp(323): message : see reference to function template instantiation 'double measureTime<std::function<void (std::string)>,std::string>(FuncType,T)' being compiled
+          with
+          [
+              FuncType=std::function<void (std::string)>,
+              T=std::string
+          ]
+  ADS_2020_CA3_SD3a_Aaron_Reihill.vcxproj -> C:\Users\aaron\Desktop\ADS_2020_CA3_SD3a_Aaron_Reihill\Debug\ADS_2020_CA3_SD3a_Aaron_Reihill.exe
